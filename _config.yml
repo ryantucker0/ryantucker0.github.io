@@ -7,11 +7,9 @@ name: Ryan Tucker
 
 # Short bio or description (displayed in the header)
 description: Living a life, writing some things
-description: Livin a life, writing some things
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/6545830?s=400&u=87e88582312942c47e6f09efb534f31c2871e283&v=4
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -86,5 +84,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
   - CNAME
