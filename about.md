@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Hi, I'm Ryan. Welcome!
 
-### More Information
+This blog  will mainly contain my thoughts and philosophies as we travel through this crazy thing we all call life. It's mainly a record for myself to look back on, but you're certainly welcome to witness the journey.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
